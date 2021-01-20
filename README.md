@@ -9,4 +9,4 @@ This project allows to run simulations based on the percentage of flights equipp
 
 To allow easier debug, I also made it possible to have a visual feedback of the airport with dynamic flights position, as you can see below (green dots are flights with EGTS, red ones are normal flights).
 
-![Dynamic feedback](https://ibb.co/G0yHn0z)
+![Dynamic feedback](https://user-images.githubusercontent.com/18093026/105165323-1a122a80-5b0e-11eb-83d8-e9d718c2d53c.png)
